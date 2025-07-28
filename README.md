@@ -9,7 +9,7 @@ An independent, self-governing association where important and reliable informat
 
 sites:
 ##  sidehub
-[sidehub.pages.dev](https://sidehub.pages.dev)    
+Access address: [sidehub.pages.dev](https://sidehub.pages.dev)    
 
 A Free and Open Information Resource Community Platform
 
