@@ -8,9 +8,11 @@ An independent, self-governing association where important and reliable informat
 重要で信頼できる情報がここで入手でき、更新される独立した自治組織です。
 
 sites:
+##  sidehub
+[sidehub.pages.dev](https://sidehub.pages.dev)    
 
-[sidehub: sidehub.pages.dev](https://sidehub.pages.dev)    A Free and Open Community Platform   
+A Free and Open Community Platform   
 
-[sidehub: sidehub.pages.dev](https://sidehub.pages.dev)    一个自由开放的社区平台
+一个自由开放的社区平台
 
-[sidehub: sidehub.pages.dev](https://sidehub.pages.dev)    自由でオープンなコミュニティプラットフォーム
+自由でオープンなコミュニティプラットフォーム
