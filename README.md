@@ -7,8 +7,9 @@ An independent, self-governing association where important and reliable informat
 
 重要で信頼できる情報がここで入手でき、更新される独立した自治組織です。
 
-sites:
-##  sidehub
+## website
+
+###  sidehub
 Access address: [sidehub.pages.dev](https://sidehub.pages.dev)    
 
 A Free and Open Information Resource Community Platform
