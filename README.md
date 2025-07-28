@@ -9,8 +9,8 @@ An independent, self-governing association where important and reliable informat
 
 sites:
 
-[sidehub](https://sidehub.pages.dev/)    A Free and Open Community Platform
+[sidehub: sidehub.pages.dev](https://sidehub.pages.dev)    A Free and Open Community Platform   
 
-[sidehub](https://sidehub.pages.dev/)    一个自由开放的社区平台
+[sidehub: sidehub.pages.dev](https://sidehub.pages.dev)    一个自由开放的社区平台
 
-[sidehub](https://sidehub.pages.dev/)    自由でオープンなコミュニティプラットフォーム
+[sidehub: sidehub.pages.dev](https://sidehub.pages.dev)    自由でオープンなコミュニティプラットフォーム
