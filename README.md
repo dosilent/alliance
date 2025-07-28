@@ -11,8 +11,8 @@ sites:
 ##  sidehub
 [sidehub.pages.dev](https://sidehub.pages.dev)    
 
-A Free and Open Community Platform   
+A Free and Open Information Resource Community Platform
 
-一个自由开放的社区平台
+一个自由开放的信息资源社区平台
 
-自由でオープンなコミュニティプラットフォーム
+自由でオープンな情報リソースコミュニティプラットフォーム
